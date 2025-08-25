@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 **Astel Tom J J** 
+#  **Astel Tom J J** 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=800&height=60&lines=%E2%98%81%EF%B8%8F+Cloud+Engineer;%F0%9F%9A%80+DevOps+Enthusiast;%F0%9F%8E%AF+AWS+Certified;%F0%9F%92%BB+MERN+Stack+Developer;%E2%9A%A1+OpenStack+Expert" alt="Typing SVG" />
 
