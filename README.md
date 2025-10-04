@@ -52,23 +52,6 @@ Motivated Cloud Engineer with hands-on experience in designing and deploying AWS
 
 ---
 
-## 🚀 Projects
-
-### Thriveon – A Cloud-Based Task Management Platform
-*March 2025 – June 2025*
-
-- **Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
-- **Deployment:** Netlify (Frontend), Railway (Backend)
-- **Repository:** [github.com/astel-code/Thriveon](https://github.com/astel-code/Thriveon)
-
-### Face Recognition Serverless API using AWS
-*October 2024 – December 2024*
-
-- **Tech Stack:** AWS Lambda, S3, Rekognition, API Gateway, CloudFormation, IAM, Python, HTML
-- **Deployment:** AWS Cloud Services
-- **Repository:** [github.com/astel-code/Face_rekognition](https://github.com/astel-code/Face_rekognition)
-
----
 
 ## 🎓 Education
 
