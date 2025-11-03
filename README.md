@@ -199,7 +199,10 @@ I'm a passionate **Cloud Engineer** from **Bangalore, India** 🇮🇳, speciali
 ## 💻 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=astel&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=astel&theme=radical&hide_border=true&layout=compact" 
+    alt="Astel's WakaTime Stats" 
+  />
 </div>
 
 ## 🌐 Connect with Me
