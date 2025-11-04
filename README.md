@@ -241,16 +241,6 @@ I'm a passionate **Cloud Engineer** from **Bangalore, India** 🇮🇳, speciali
 
 <br>
 
-## 🎵 Spotify Playing
-
-<div align="center">
-  
-[![Spotify](https://novatorem-astel-code.vercel.app/api/spotify)](https://open.spotify.com/user/astel-code)
-
-</div>
-
-<br>
-
 ---
 
 <div align="center">
