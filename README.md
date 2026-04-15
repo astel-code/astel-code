@@ -109,7 +109,7 @@ I'm a passionate **Cloud Engineer** from **Bangalore, India** 🇮🇳, speciali
 | 🚀 Project | 💻 Tech Stack | 🔗 Links |
 |:-----------|:-------------|:---------|
 | **Face Recognition Serverless API** | AWS Lambda, S3, Rekognition, API Gateway, IAM, CloudFormation, Python | [GitHub](https://github.com/astel-code/Face_rekognition) |
-| **CI/CD Pipeline – User Profile App** | GitHub, Jenkins, AWS EC2, Nginx, PM2, RDS, S3 | [GitHub](https://github.com/astel-code) |
+| **CI/CD Pipeline – User Profile App** | GitHub, Jenkins, AWS EC2, Nginx, PM2, RDS, S3 | [GitHub](https://github.com/astel-code/ci-cd-user-profile-aws-jenkins) |
 | **Thriveon** – Cloud-Based Task Management | MERN Stack, Netlify, Railway | [GitHub](https://github.com/astel-code/Thriveon) |
 
 </div>
