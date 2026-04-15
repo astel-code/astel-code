@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cloud+%2F+DevOps+Engineer;AWS+Solutions+Architect;Full+Stack+Developer;Automation+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cloud+%2F+DevOps+Engineer;AWS+Solutions+Architect;CI%2FCD+Pipeline+Builder;Serverless+Architecture+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -16,12 +16,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm a passionate **Cloud Engineer** from **Bangalore, India** 🇮🇳, specializing in AWS cloud solutions, DevOps practices, and building scalable applications. Currently pursuing B.Sc. (Honors) in **Cloud Computing and Big Data** at REVA University with a stellar **9.13/10 CGPA**.
+I'm a passionate **Cloud Engineer** from **Bangalore, India** 🇮🇳, specializing in AWS cloud infrastructure, CI/CD implementation, and serverless applications. Currently pursuing a **B.Sc. (Honors) in Cloud Computing and Big Data** at REVA University.
 
-- 🔭 Currently working on **cloud-native applications** and **serverless architectures**
+- 🔭 Currently working on **CI/CD pipelines** and **serverless architectures**
 - 🌱 Learning **Azure**, **Kubernetes**, and advanced **DevOps practices**
 - 👯 Open to collaborate on **cloud automation** and **open-source projects**
-- 💬 Ask me about **AWS, CloudFormation, Lambda, MERN Stack**
+- 💬 Ask me about **AWS, Jenkins, CloudFormation, Lambda, EC2, Nginx**
 - 📫 Reach me at: **asteltom0@gmail.com**
 - ⚡ Fun fact: I love simplifying complex cloud concepts for others!
 
@@ -37,7 +37,17 @@ I'm a passionate **Cloud Engineer** from **Bangalore, India** 🇮🇳, speciali
 ![OpenStack](https://img.shields.io/badge/OpenStack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/AWS_Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS_EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![S3](https://img.shields.io/badge/AWS_S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white)
+![RDS](https://img.shields.io/badge/AWS_RDS-%23527FFF.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VPC](https://img.shields.io/badge/AWS_VPC-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### CI/CD & DevOps Tools
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -54,8 +64,6 @@ I'm a passionate **Cloud Engineer** from **Bangalore, India** 🇮🇳, speciali
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Railway](https://img.shields.io/badge/Railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -73,9 +81,10 @@ I'm a passionate **Cloud Engineer** from **Bangalore, India** 🇮🇳, speciali
 ### ☁️ AWS Cloud Intern
 **Plasmid Innovation Ltd** | Remote  
 📅 Mar 2025 – Jun 2025
-- ✅ Deployed scalable cloud solutions using AWS infrastructure
-- ✅ Implemented automation practices for resource optimization
-- ✅ Contributed to multiple cloud project executions
+- ✅ Implemented an end-to-end CI/CD pipeline for a User Profile Application using GitHub, Jenkins, and AWS EC2
+- ✅ Automated build and deployment through GitHub–Jenkins integration
+- ✅ Deployed and managed the application on AWS EC2 using Nginx and PM2, integrated with Amazon RDS and S3
+- ✅ Applied DevOps practices and CI/CD automation for efficient and scalable cloud deployment
 
 </td>
 <td width="50%">
@@ -83,9 +92,9 @@ I'm a passionate **Cloud Engineer** from **Bangalore, India** 🇮🇳, speciali
 ### 🎓 AWS Trainer
 **Bnei Ra'am Tech Solution Pvt Ltd** | On-site  
 📅 Oct 2024 – Dec 2024
-- ✅ Conducted comprehensive AWS training sessions for developers
-- ✅ Simplified complex cloud concepts for easy adoption
-- ✅ Guided teams in leveraging AWS tools for improved scalability
+- ✅ Delivered hands-on AWS training covering EC2, S3, IAM, Lambda, and CloudFormation
+- ✅ Guided developers in deploying applications on AWS with focus on scalability and performance
+- ✅ Simplified cloud architecture and DevOps fundamentals for beginner-level teams
 
 </td>
 </tr>
@@ -99,12 +108,37 @@ I'm a passionate **Cloud Engineer** from **Bangalore, India** 🇮🇳, speciali
 
 | 🚀 Project | 💻 Tech Stack | 🔗 Links |
 |:-----------|:-------------|:---------|
-| **Thriveon** - Cloud-Based Task Management Platform | MERN Stack (MongoDB, Express.js, React.js, Node.js) | [GitHub](https://github.com/astel-code/Thriveon) |
-| **Face Recognition Serverless API** | AWS Lambda, S3, Rekognition, API Gateway, CloudFormation, Python | [GitHub](https://github.com/astel-code/Face_rekognition) |
+| **Face Recognition Serverless API** | AWS Lambda, S3, Rekognition, API Gateway, IAM, CloudFormation, Python | [GitHub](https://github.com/astel-code/Face_rekognition) |
+| **CI/CD Pipeline – User Profile App** | GitHub, Jenkins, AWS EC2, Nginx, PM2, RDS, S3 | [GitHub](https://github.com/astel-code) |
+| **Thriveon** – Cloud-Based Task Management | MERN Stack, Netlify, Railway | [GitHub](https://github.com/astel-code/Thriveon) |
 
 </div>
 
-### 🚀 Thriveon - Cloud-Based Task Management Platform
+### 🔐 Face Recognition Serverless API
+<img align="right" width="300" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
+
+**Tech Stack:** AWS Lambda, API Gateway, S3, Rekognition, IAM, CloudFormation, Python
+
+- Developed a serverless face recognition system for secure facial recognition and emotion detection
+- Automated infrastructure deployment with CloudFormation templates
+- Implemented secure API endpoints with proper IAM policies
+- Cost-efficient and scalable serverless architecture
+
+<br clear="both">
+
+### ⚙️ CI/CD Pipeline for User Profile Application
+<img align="right" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+
+**Tech Stack:** GitHub, Jenkins, AWS EC2, Nginx, PM2, Amazon RDS, S3
+
+- Implemented an end-to-end CI/CD pipeline automating build and deployment via GitHub–Jenkins integration
+- Deployed and managed the application on AWS EC2 using Nginx as a reverse proxy and PM2 for process management
+- Integrated Amazon RDS for relational database management and S3 for file storage
+- Applied DevOps best practices for scalable, automated cloud deployment
+
+<br clear="both">
+
+### 🚀 Thriveon – Cloud-Based Task Management Platform
 <img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 **Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)  
@@ -117,21 +151,7 @@ I'm a passionate **Cloud Engineer** from **Bangalore, India** 🇮🇳, speciali
 
 <br clear="both">
 
-### 🔐 Face Recognition Serverless API
-<img align="right" width="300" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
-
-**Tech Stack:** AWS Lambda, S3, Rekognition, API Gateway, CloudFormation, Python
-
-- Developed a serverless face recognition system using AWS services
-- Automated infrastructure deployment with CloudFormation
-- Implemented secure API endpoints with proper IAM policies
-- Cost-efficient and scalable serverless architecture
-
-<br clear="both">
-
 <br>
-
-## 📊 GitHub Statistics
 
 ## 📊 GitHub Statistics
 
@@ -170,17 +190,17 @@ I'm a passionate **Cloud Engineer** from **Bangalore, India** 🇮🇳, speciali
 ### 🎓 Bachelor's Degree
 **B.Sc. (Honors) Cloud Computing and Big Data**  
 🏛️ REVA University  
-📅 Sep 2022 – June 2025  
-⭐ **CGPA: 9.13/10**
+📅 Sep 2022 – Dec 2025  
+🏅 **First Class**
 
 </td>
 <td align="center" width="50%">
 
-### 📚 High School
+### 📚 Pre-University Diploma
 **Science Stream**  
-🏫 Kendriya Vidyalaya (KV)  
+🏫 KV CRPF Peringome  
 📅 Apr 2020 – Jul 2022  
-📊 **Grade: 78.8%**
+🏅 **First Class**
 
 </td>
 </tr>
@@ -188,14 +208,22 @@ I'm a passionate **Cloud Engineer** from **Bangalore, India** 🇮🇳, speciali
 
 <br>
 
-## 💻 Coding Activity
+## 📜 Certifications
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=astel&theme=radical&hide_border=true&layout=compact" 
-    alt="Astel's WakaTime Stats" 
-  />
+
+| 🏆 Certification |
+|:----------------|
+| Microsoft AI Fundamentals |
+| Microsoft Fundamentals |
+| Pearson IT Specialist |
+| Infosys Linux Programming |
+| AWS CLI (Basics) |
+| Infosys Microsoft 365 Fundamentals |
+
 </div>
+
+<br>
 
 ## 🌐 Connect with Me
 
@@ -205,19 +233,6 @@ I'm a passionate **Cloud Engineer** from **Bangalore, India** 🇮🇳, speciali
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asteltom/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/astel-code)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asteltom0@gmail.com)
-
-</div>
-
-<br>
-
-## 📜 Certifications & Achievements
-
-<div align="center">
-
-🏆 Check out my professional certifications on [LinkedIn](https://www.linkedin.com/in/asteltom/)  
-⭐ CGPA: 9.13/10 in Cloud Computing and Big Data  
-☁️ AWS Cloud Practitioner Journey  
-🎓 Technical Training Expert
 
 </div>
 
