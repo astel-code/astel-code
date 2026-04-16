@@ -156,18 +156,13 @@ I'm a passionate **Cloud Engineer** from **Bangalore, India** 🇮🇳, speciali
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=astel-code&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=astel-code&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=0" />
   
-  <img width="49%" src="https://streak-stats.demolab.com?user=astel-code&theme=radical&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=astel-code&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astel-code&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=1800" />
-</div>
-
-## 📈 Contribution Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=astel-code&bg_color=0d1117&color=e74c3c&line=e74c3c&point=ffffff&area=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astel-code&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=0" />
 </div>
 
 ## 🐍 Contribution Snake
